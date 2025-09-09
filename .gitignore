@@ -3,3 +3,5 @@
 *.session
 *.log
 __pycache__
+*.session-journal
+testi.py
